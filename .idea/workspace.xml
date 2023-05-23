@@ -1,20 +1,132 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="62bd71f6-e5db-4472-b2ee-affb191f1056" name="Changes" comment="" />
+    <list default="true" id="62bd71f6-e5db-4472-b2ee-affb191f1056" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/connectDevice/ConnectAndroid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/connectDevice/ConnectAndroid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/connectDevice/DeviceCapabilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/connectDevice/DeviceCapabilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pagePOM/gsCartPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pagePOM/gsCartPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pagePOM/gsHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pagePOM/gsHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/referenceActions/ActionClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/referenceActions/ActionClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/testBlocks/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testBlocks/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/testBlocks/testScript.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testBlocks/testScript.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/ExtentReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utilities/ExtentReport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/GetScreenShot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utilities/GetScreenShot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/ReadExcelData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utilities/ReadExcelData.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2Q8mAqyfIXoLgXqsgEOdZiUhNxE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/JavaPrograms/Selenium/GeneralStore/sx-abbott_General-Store/src/main/resources/androidApps"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\JavaPrograms\Selenium\GeneralStore\sx-abbott_General-Store\src\main\resources\androidApps" />
+      <recent name="C:\JavaPrograms\Selenium\GeneralStore\sx-abbott_General-Store\src\main\resources\webDrivers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\JavaPrograms\Selenium\GeneralStore\sx-abbott_General-Store" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/JavaPrograms/Selenium/GeneralStore/sx-abbott_General-Store/testng.xml">
+    <configuration name="testScript" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testBlocks.testScript" />
+      <module name="sx-abbott_General-Store" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testBlocks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/JavaPrograms/Selenium/GeneralStore/sx-abbott_General-Store/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sx-abbott_General-Store" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sx-abbott_General-Store" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testBlocks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testBlocks" />
+      <option name="MAIN_CLASS_NAME" value="testBlocks.HomePage" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testScript.testInput" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sx-abbott_General-Store" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testBlocks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testBlocks" />
+      <option name="MAIN_CLASS_NAME" value="testBlocks.testScript" />
+      <option name="METHOD_NAME" value="testInput" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/JavaPrograms/Selenium/GeneralStore/sx-abbott_General-Store/testng.xml" />
+        <item itemvalue="TestNG.testScript.testInput" />
+        <item itemvalue="Application.testScript" />
+        <item itemvalue="TestNG.HomePage" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -25,5 +137,16 @@
       <updated>1684743446742</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

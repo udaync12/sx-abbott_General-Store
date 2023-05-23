@@ -1,2 +1,4 @@
-package connectDevice;public class ConnectAndroid {
+package connectDevice;
+
+public class ConnectAndroid {
 }
